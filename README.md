@@ -1,11 +1,11 @@
 # Ruleset Hexagon
 
-*Version 1.0 (20/08/2019) - Document sujet à changement*
+*Version 1.0 (07/09/2019) - Document sujet à changement*
 
 ---
 
 ## Introduction
-Ce document sert à représenter / exposer les règles qui seront suivies dans l'intégralité des tournois Hexagon ainsi que les tournois voulant adhérer à ce ruleset. Il est inspiré en grande partie par les rulesets utilisés aux Etats-Unis d'Amérique (ex: Apex, EVO, Genesis).
+Ce document sert à représenter / exposer les règles qui seront suivies dans l'intégralité des tournois Hexagon ainsi que les tournois voulant adhérer à ce ruleset. Il est inspiré en grande partie par les rulesets utilisés aux Etats-Unis d'Amérique (ex: MIOM Recommended Ruleset, Apex, EVO, Genesis).
 
 ## Glossaire
 
@@ -23,6 +23,7 @@ bracket et Lower/Loser bracket, et élimination à l'issue d'une défaite en low
 - **DQ** : Disqualification.
 - **UCF** : Universal Controller Fix. Une modification logicielle ou matérielle permettant de corriger des défauts inhérents à la plupart des manettes, rendant celles-ci compétitivement viables dans un très grand nombre de cas.
 - **Vanilla** : Version originelle du jeu, non modifiée
+- **Coaching** : Acte de recevoir un ou des conseils de la part d'un autre joueur
 
 ---
 
@@ -32,7 +33,7 @@ Version jouée : **Super Smash Bros. Melee NTSC v1.02 + UCF v0.73**
 
 Note : Étant donné que la France est un territoire originellement PAL, il convient d'appliquer si nécessaire la sauvegarde de modification PAL vers NTSC.
 
-Lien: (https://smashboards.com/threads/pal-to-ntsc-memcard-save-v2-1.467853/)[https://smashboards.com/threads/pal-to-ntsc-memcard-save-v2-1.467853/]
+Lien: [https://smashboards.com/threads/pal-to-ntsc-memcard-save-v2-1.467853/](https://smashboards.com/threads/pal-to-ntsc-memcard-save-v2-1.467853/)
 
 Autre avantage, cette sauvegarde contient UCF 0.73, ce qui évite d'appliquer les deux modifications.
 
@@ -85,6 +86,8 @@ Les manettes suivantes sont **autorisées**
 - Manette type B0XX
 
 Tout autre type de manette est **interdite**. (ex : Wavebird, manettes non-officielles, SmashBox, ect)
+
+Il est possible d'autoriser sur une base individuelle les manettes uniques de certains joueurs sous reserve inconditionnelle qu'ils se conforment au [MIOM Controller Addendum](https://docs.google.com/document/d/1EfQeX64iJLM8wXHaZMyH_gC2Zpw3Tk-QSrEBe7RUM1s/view) ([https://docs.google.com/document/d/1EfQeX64iJLM8wXHaZMyH_gC2Zpw3Tk-QSrEBe7RUM1s/view](https://docs.google.com/document/d/1EfQeX64iJLM8wXHaZMyH_gC2Zpw3Tk-QSrEBe7RUM1s/view)). A cet effet, les joueurs concernés devront fournir une description précise de leur matériel et fournir le code embarqué sur le matériel afin qu'une décision puisse être prise. A noter que tout changement du dit code entraine une disqualification du matériel et provoque une nouvelle mise en examen.
 
 ###### Modifications de manettes
 
@@ -204,6 +207,7 @@ Un set se déroule soit en Best of 3 ou bien en Best of 5
 
 - **Il n'est pas possible de retourner sur un stage sur lequel on a déjà gagné** (DSR Winner's variation).
 - La *Gentleman's Clause* est effective : Il est possible de choisir n'importe quel stage du moment qu'un accord mutuel existe, et cette règle est prioritaire sur la règle ci-dessus.
+- Le joueur qui gagne le *RPS* de stage striking décide qui des deux joueurs commence à bannir les stages, il y gagne donc la liberté de décider de pick en premier ou en second et non pas automatiquement le droit de pick en premier.
 
 Un set commence de la façon suivante
 
@@ -213,17 +217,17 @@ Un set commence de la façon suivante
 3. Les joueurs annoncent le personnage qu'ils utilisent
     - Si un des joueurs le veut, ils peuvent utiliser la clause de Double Blind Pick
 4. Un match de *RPS* désigne qui pourra entamer le stage striking (*désigné par P1, le perdant sera désigné par P2*) qui opère uniquement sur les Starter Stages (voir ci dessus)
-5. Un échauffement optionnel d'une minute maximum peut être demandé. Il prend place sur le stage défini à l'étape précédente.
-6. P1 bannit un des stages
+5. P1 bannit un des stages
 6. P2 bannit 2 stages
 7. P1 bannit un dernier stage et verrouille donc le choix final
-8. Le premier match commence et se finit
-9. Dans le cas d'un Bo3, le gagnant du match précédent annonce le stage qu'il bannit
-10. Le perdant du match annonce le stage qu'il choisit
-11. Le gagnant du match annonce le personnage qu'il utilise
-12. Le perdant du match annonce le personnage qu'il utilise
-13. Le match commence puis se finit
-14. Répéter 9 - 13 jusqu'à ce que le set soit fini
+8. Un échauffement optionnel d'une minute maximum peut être demandé. Il prend place sur le stage défini à l'étape précédente.
+9. Le premier match commence et se finit
+10. Dans le cas d'un Bo3, le gagnant du match précédent annonce le stage qu'il bannit
+11. Le perdant du match annonce le stage qu'il choisit
+12. Le gagnant du match annonce le personnage qu'il utilise
+13. Le perdant du match annonce le personnage qu'il utilise
+14. Le match commence puis se finit
+15. Répéter 10 - 14 jusqu'à ce que le set soit fini
 
 ## Autres clauses
 
