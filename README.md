@@ -58,23 +58,26 @@ tous les cas, il faut que la décision soit entière : soit tout le tournoi se d
 Vanilla.
 
 
-Version d'UCF utilisée: **v0.73**
+#### Version d'UCF utilisée: **v0.73**
 
 ### Ecrans
 
 - CRT 4/3
-- CRT 16/9, toléré mais non encouragé car déforme l'image
+- CRT 16/9, autorisé mais non encouragé car déforme l'image
 - Ecran LCD Lagless avec adaptateur Wii2HDMI
     - Adaptateurs Wii2HDMI Recommandés
         - Neoya Wii2HDMI
         - Sewell Wii2HDMI
     - Ecrans LCD Recommandés (*input lag entre parenthèses*)
-        - Asus VH238H (2ms)
-        - BenQ RL2455HM (2ms)
-        - Asus VG428QE (0,7ms)
-        - Asus PA238Q (2,2ms)
-        - BenQ RL2450HT (4,2ms)
-        - BenQ XL2430T (~4ms)
+        - 60 Hz
+            - Asus VH238H (2ms)
+            - BenQ RL2455HM (2ms)
+            - Asus VG428QE (0,7ms)
+            - Asus PA238Q (2,2ms)
+            - BenQ RL2450HT (4,2ms)
+            - BenQ XL2430T (~4ms)
+        - 120+ Hz
+            - La plupart des moniteurs de ce calibre ont suffisamment peu de lag, du moment qu'ils utilisent une dalle TN.
 
 
 ### Manettes
@@ -112,7 +115,6 @@ Sont **interdites** les modifications de manettes suivantes
     - Enregistrement d'une valeur analogique précise (ex : "Bouton Shield Drop")
 - Installation d'un microcontrolleur programmable (ex: Arduino)
 - Création de tout nouveaux boutons
-- Encoches facilitant l'entrée de certaines valeurs précises (ex : Kadano Hybrid Gate)
 - Re-wiring de boutons (ex : Appuyer sur B pour sauter)
     - **Mesure pouvant être levée en cas d'handicap manuel avéré.**
 
@@ -240,6 +242,9 @@ Un set commence de la façon suivante
 ## Comportement
 
 La tenue attendue des participants aux tournois utilisant le Ruleset Hexagon est identique à ce qui est attendu par le Code de Conduite de la communauté internationale de SSBM.
+
+Ce code de conduite peut être trouvé ici : [https://smashboards.com/threads/the-ssb-community-code-of-conduct.458342/](https://smashboards.com/threads/the-ssb-community-code-of-conduct.458342/)
+
 Les TOs utilisant le Ruleset Hexagon sont libres d'être ou ne pas être signataires du dit Code de Conduite et d'appliquer les sanctions recommandées.
 
 Il est cependant **fortement recommandé**, dans un effort de cohésion internationale de garder un environnement compétitif sain, que les TOs utilisant le Ruleset Hexagon soient signataires du Code de Conduite.
